@@ -181,7 +181,7 @@ EC2 → Instances → Stop / Terminate
 
 ## 👨‍💻 Author
 
-**Dhanu**  
+**Dhanush D Prabhu**  
 DevOps & Cloud Enthusiast  
 GitHub: https://github.com/iamdevdhanush
 
